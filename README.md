@@ -8,7 +8,7 @@ I am a frontend developer who loves building building web applications with Java
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [essiamah20@gmail.com](mailto:essiamah20@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning Data Analysis with Python
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
