@@ -1,14 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bernard Kofi Essiamah
+Hi! My name is Bernard Kofi Essiamah
 =============================================================================================================================================
 
-Web Developer
+Budding Data Engineer || Formerly Web Developer
 -------------
 
-I am a frontend developer who loves building building web applications with Javascript. I am also willing to learn and broaden my knowledge in all aspects of computing.
+I am a computer engineering undergraduate with former experiences in frontend web development. Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and engineering. 
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [essiamah20@gmail.com](mailto:essiamah20@gmail.com)
-* 🧠  I'm learning Data Analysis with Python
+* 🧠  I'm learning Data Analysis with SQL, Tableau and Python
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
