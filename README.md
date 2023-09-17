@@ -1,4 +1,5 @@
-Hi! My name is Bernard Kofi Essiamah
+Hi 👋 My name is Bernard Kofi Essiamah
+======================================
 =============================================================================================================================================
 
 Budding Data Engineer || Formerly Web Developer
