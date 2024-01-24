@@ -9,7 +9,7 @@ I am a highly motivated and results-driven individual with 2 years of experience
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [essiamah20@gmail.com](mailto:essiamah20@gmail.com)
-* 🧠  I'm learning Data Analysis with SQL, Tableau, Python, Azure Databricks
+* 🧠  I explore Data with tools and software like SQL, Microsoft Power BI, Excel, Tableau, Python and Azure Databricks
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
