@@ -2,7 +2,7 @@ Hi 👋 My name is Bernard Kofi Essiamah
 ======================================
 =============================================================================================================================================
 
-Budding Data Engineer || Formerly Web Developer
+Data Analyst || Budding Data Engineer
 -------------
 
 I am a computer engineering undergraduate with former experiences in frontend web development. Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and engineering. 
