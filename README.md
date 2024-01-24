@@ -5,11 +5,11 @@ Hi 👋 My name is Bernard Kofi Essiamah
 Data Analyst || Budding Data Engineer
 -------------
 
-I am a computer engineering undergraduate with former experiences in frontend web development. Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and engineering. 
+I am a highly motivated and results-driven individual with 2 years of experience in data analysis, visualization and reporting. I possess strong analytical and programming skills with a passion for utilizing data to solve complex problems. Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and data engineering. 
 
 * 🌍  I'm based in Accra, Ghana
 * ✉️  You can contact me at [essiamah20@gmail.com](mailto:essiamah20@gmail.com)
-* 🧠  I'm learning Data Analysis with SQL, Tableau and Python
+* 🧠  I'm learning Data Analysis with SQL, Tableau, Python, Azure Databricks
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
