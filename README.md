@@ -1,8 +1,8 @@
-Hi 👋 My name is Bernard Kofi Essiamah
-======================================
+<h1 align="center"> Hi 👋 My name is Bernard Kofi Essiamah </h1>
 
-Data Analyst || Budding Data Engineer
--------------
+<h3 align="center">Data Analyst, Budding Data Engineer || Passionate about solving data problems </h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
 I am a highly motivated and results-driven individual with 2 years of experience in data analysis, visualization and reporting. I possess strong analytical and programming skills with a passion for utilizing data to solve complex problems. Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and data engineering. 
 
