@@ -4,11 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
-I am a highly motivated and results-driven individual with 2 years of experience in data analysis, visualization and reporting. I possess strong analytical and programming skills with a passion for utilizing data to solve complex problems. Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and data engineering. 
 
-* 🌍  I'm based in Accra, Ghana
+I am a highly motivated and results-driven individual with 3+ years of experience in data analysis, visualization and reporting. I possess strong analytical and programming skills with a passion for utilizing data to solve complex problems. 
+
+Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and data engineering. 
+
 * ✉️  You can contact me at [essiamah20@gmail.com](mailto:essiamah20@gmail.com)
 * 🧠  I explore Data with tools and software like SQL, Microsoft Power BI, Excel, Tableau, Python and Azure Databricks
+* 📁 Check out my portfolio [here](https://beko50.github.io/dataportfolio).
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
@@ -27,7 +30,10 @@ I am a highly motivated and results-driven individual with 2 years of experience
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/beko50" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bernard-kofi-essiamah-b89922210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/bernard-kofi-essiamah-b89922210" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>  <img src="https://komarev.com/ghpvc/?username=beko50" alt="bernard-kofi"></p>
+
+  
+
 
 ### Badges
 
