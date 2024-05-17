@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋 My name is Bernard Kofi Essiamah </h1>
+<h1 align="center"> Hi 👋 I'm Bernard Kofi Essiamah </h1>
 
 <h3 align="center">Data Analyst, Budding Data Engineer || Unraveling complex data   🚀 </h3>
 
