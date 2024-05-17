@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋 My name is Bernard Kofi Essiamah </h1>
 
-<h3 align="center">Data Analyst, Budding Data Engineer || Unraveling complex data </h3>
+<h3 align="center">Data Analyst, Budding Data Engineer || Unraveling complex data🚀 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
