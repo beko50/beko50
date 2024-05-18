@@ -11,7 +11,7 @@ Currently, I am utilizing my growing expertise in everything data to build a str
 * ✉️  You can contact me at [essiamah20@gmail.com](mailto:essiamah20@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 * 📁 Check out my portfolio [here](https://beko50.github.io/dataportfolio).
-* 🍿 Outside my data life, I'm curious about technology and music. I also enjoy gaming, movies and dabbling in photography during my free time.
+* 🍿 Outside my data life, I'm curious about technology and music. I also enjoy gaming, watching football and movies alongside dabbling in photography during my free time.
 
 
 ### Skills / Tools
