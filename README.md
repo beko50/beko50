@@ -1,12 +1,12 @@
 <h1 align="center"> Hi 👋 I'm Bernard Kofi Essiamah </h1>
 
-<h3 align="center">Data Analyst, Budding Data Engineer || Unraveling complex data   🚀 </h3>
+<h3 align="center">Data Analyst, Budding Data Engineer </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=3384B4&lines=Welcome+to+my+GitHub+...)](https://git.io/typing-svg)
 
-I am a highly motivated and results-driven individual with 3+ years of experience in data analysis, visualization and reporting. I possess strong analytical and programming skills with a passion for utilizing data to solve complex problems. 
+I enjoy deriving insights from vast amounts of data. With over 3 years of experience in data analysis, I possess strong analytical and programming skills. 
 
-Currently, I am utilizing my growing expertise in everything data to build a strong foundation in the field of data science and data engineering. 
+Currently, I am utilizing my growing expertise in everything data to build a strong foundation in data science and data engineering. 
 
 * ✉️  You can contact me at [essiamah20@gmail.com](mailto:essiamah20@gmail.com)
 * 🤝  I'm open to collaborating on Projects
