@@ -15,7 +15,7 @@ Currently, I am utilizing my growing expertise in everything data to build a str
 
 
 ### Skills / Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) ![Dataverse](https://img.shields.io/badge/Dataverse-4CAF50?style=for-the-badge&logo=microsoft&logoColor=white) ![JavaScript (React & Node)](https://img.shields.io/badge/JavaScript-React%20%7C%20Node-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white) ![Dataverse](https://img.shields.io/badge/Dataverse-4CAF50?style=for-the-badge&logo=microsoft&logoColor=white) ![JavaScript (React & Node)](https://img.shields.io/badge/JavaScript-React%20%7C%20Node-FF8C00?style=for-the-badge&logo=javascript&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 
 ### Socials
